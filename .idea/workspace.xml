@@ -13,7 +13,6 @@
     <list default="true" id="1a82c2f8-6fcd-4a2e-b679-01bdc45ecd82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2010-11-29-DRI_Analyzer_youtube.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606652548102</updated>
-      <workItem from="1606652549363" duration="2693000" />
+      <workItem from="1606652549363" duration="3241000" />
     </task>
     <servers />
   </component>
