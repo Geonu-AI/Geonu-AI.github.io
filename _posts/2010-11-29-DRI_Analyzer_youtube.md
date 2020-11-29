@@ -1,11 +1,10 @@
 ---
-title: "Post: Video (YouTube)"
-categories:
-  - Post Formats
+title: "DRI Backscattered Electron Image Analyzer"
+
 tags:
-  - Post Formats
+  - DRI, SEM, BSE, Strength, Mechanical Property, Image Processing and Analysis
 ---
 
 YouTube video embed below.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=03C1qXk-r1I" frameborder="0" allowfullscreen></iframe>
