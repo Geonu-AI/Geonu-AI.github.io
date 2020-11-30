@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a82c2f8-6fcd-4a2e-b679-01bdc45ecd82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -70,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606652548102</updated>
-      <workItem from="1606652549363" duration="5785000" />
+      <workItem from="1606652549363" duration="5968000" />
+      <workItem from="1606742463754" duration="656000" />
     </task>
     <servers />
   </component>
@@ -87,5 +89,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="276" key="FileChooserDialogImpl" timestamp="1606658572324">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1606658572324" />
+    <state x="-1145" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606658565442">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="-1145" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1606658565442" />
   </component>
 </project>
