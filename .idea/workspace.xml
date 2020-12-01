@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a82c2f8-6fcd-4a2e-b679-01bdc45ecd82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/D.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GeonuKim\Desktop\ML project\Blog" />
       <recent name="C:\Users\GeonuKim\Desktop\ML project\Blog\_posts" />
     </key>
   </component>
@@ -73,7 +76,7 @@
       <workItem from="1606652549363" duration="5968000" />
       <workItem from="1606742463754" duration="1642000" />
       <workItem from="1606744298864" duration="1445000" />
-      <workItem from="1606822374261" duration="3036000" />
+      <workItem from="1606822374261" duration="3374000" />
     </task>
     <servers />
   </component>
@@ -93,10 +96,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1180" y="276" key="FileChooserDialogImpl" timestamp="1606658572324">
+    <state x="-1180" y="276" key="FileChooserDialogImpl" timestamp="1606825519450">
       <screen x="-1920" y="2" width="1920" height="1040" />
     </state>
-    <state x="-1180" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1606658572324" />
+    <state x="-1180" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1606825519450" />
     <state x="-1145" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606658565442">
       <screen x="-1920" y="2" width="1920" height="1040" />
     </state>
