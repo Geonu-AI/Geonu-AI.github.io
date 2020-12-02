@@ -1,6 +1,7 @@
 ---
-title: "About"
 permalink: /about/
+title: "About"
+excerpt: "About"
 layouts_gallery:
   - url: /assets/images/D.jpeg
     image_path: /assets/images/D.jpeg
