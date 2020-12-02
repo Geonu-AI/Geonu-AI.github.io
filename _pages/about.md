@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: single
 title: "About"
 permalink: /about/
 header:
-    image: /assets/images/D.jpeg
+    image: "/assets/images/D.jpeg""
 ---
