@@ -1,6 +1,6 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
 layouts_gallery:
     - url: /assets/images/D.jpeg
         image_path: /assets/images/D.jpeg
