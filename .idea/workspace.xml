@@ -11,7 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a82c2f8-6fcd-4a2e-b679-01bdc45ecd82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/D.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -77,6 +81,7 @@
       <workItem from="1606822374261" duration="4559000" />
       <workItem from="1606916537981" duration="2321000" />
       <workItem from="1607002264566" duration="434000" />
+      <workItem from="1607003101924" duration="769000" />
     </task>
     <servers />
   </component>
@@ -100,6 +105,10 @@
       <screen x="-1920" y="2" width="1920" height="1040" />
     </state>
     <state x="-1180" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1606825519450" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1607003241416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1607003241416" />
     <state x="-1145" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606658565442">
       <screen x="-1920" y="2" width="1920" height="1040" />
     </state>
