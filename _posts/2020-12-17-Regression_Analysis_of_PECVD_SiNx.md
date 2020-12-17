@@ -23,7 +23,7 @@ title: "Regression Analysis of SiNx Intrinsic Film Stress"
 </figure>
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/NN_Cost_over_epochs.jpg' | relative_url }})
+![Foo]({{ '/assets/images/NN_Cost_over_epochs.png' | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -41,7 +41,7 @@ title: "Regression Analysis of SiNx Intrinsic Film Stress"
 </figure>
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/Linear_Regression_Cost_versus_Epoch' | relative_url }})
+![Foo]({{ '/assets/images/Linear_Regression_Cost_versus_Epoch.png' | relative_url }})
 {% endcapture %}
 
 <figure>
