@@ -3,21 +3,18 @@ title: "Machine Learning based approach for Prediction of Intrinsic Stress of PE
 categories:
   - Post Formats
 tags:
-  - image
+  - gallery
   - Post Formats
+  - tiled
+gallery:
+  - url: /assets/images/NN_Prediction.jpg
+    image_path: /assets/images/NN_Prediction.jpg
+    alt: "placeholder image 1"
+    title: "Neural Network Analysis of SiNx Film Stress"
 ---
 
 Linear Regression Analysis of SiNx Film Stress
 
-{% capture fig_img %}
-![Foo]({{ '/assets/images/Linear_Regression_Y_versus_Y_predicted_with_DevSet.png' | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photo from Unsplash.</figcaption>
-</figure>
 
 
-Neural Network Analysis of SiNx Film Stess 
 
