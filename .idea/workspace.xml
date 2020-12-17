@@ -12,10 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a82c2f8-6fcd-4a2e-b679-01bdc45ecd82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/B.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/CISR-hires.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/D.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +31,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\GeonuKim\Desktop\ML project\Blog" />
       <recent name="C:\Users\GeonuKim\Desktop\ML project\Blog\_posts" />
+      <recent name="C:\Users\GeonuKim\Desktop\ML project\Blog" />
     </key>
   </component>
   <component name="RunManager">
@@ -82,7 +78,9 @@
       <workItem from="1606822374261" duration="4559000" />
       <workItem from="1606916537981" duration="2321000" />
       <workItem from="1607002264566" duration="434000" />
-      <workItem from="1607003101924" duration="1556000" />
+      <workItem from="1607003101924" duration="1613000" />
+      <workItem from="1607089403638" duration="15000" />
+      <workItem from="1608211197080" duration="1282000" />
     </task>
     <servers />
   </component>
@@ -102,10 +100,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1180" y="276" key="FileChooserDialogImpl" timestamp="1606825519450">
-      <screen x="-1920" y="2" width="1920" height="1040" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1607089416613">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1606825519450" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1607089416613" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1607003241416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
