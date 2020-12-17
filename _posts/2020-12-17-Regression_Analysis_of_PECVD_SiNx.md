@@ -1,10 +1,17 @@
 ---
-title: "Machine Learning based approach for Prediction of Intrinsic Stress of PECVD - Silicon Nitride Layers"
-
+title: "Post: Image (Caption)"
+categories:
+  - Post Formats
+tags:
+  - image
+  - Post Formats
 ---
 
-Linear Regression Analysis of SiNx Film Stress
+{% capture fig_img %}
+![Foo]({{ '/assets/images/NN_Prediction.jpg' | relative_url }})
+{% endcapture %}
 
-Neural Network Analysis of SiNx Film Stress
-
-
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photo from Unsplash.</figcaption>
+</figure>
