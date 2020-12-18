@@ -9,7 +9,7 @@ title: "Regression Analysis of SiNx Intrinsic Film Stress"
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Neural Network Prediction After 10,000 epochs.</figcaption>
+  <figcaption>Prediction of neural network trained over 10,000 epochs.</figcaption>
 </figure>
 
 
@@ -19,7 +19,7 @@ title: "Regression Analysis of SiNx Intrinsic Film Stress"
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>NN Prediction changes over epochs.</figcaption>
+  <figcaption>NN prediction changes over epochs.</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -28,7 +28,7 @@ title: "Regression Analysis of SiNx Intrinsic Film Stress"
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>NN Cost changes over epochs.</figcaption>
+  <figcaption>NN cost changes over epochs.</figcaption>
 </figure>
 
 {% capture fig_img %}
@@ -46,6 +46,6 @@ title: "Regression Analysis of SiNx Intrinsic Film Stress"
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Linear regression cost over epochs .</figcaption>
+  <figcaption>Linear regression cost changes over epochs.</figcaption>
 </figure>
 
