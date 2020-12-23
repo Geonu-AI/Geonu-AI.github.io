@@ -4,7 +4,7 @@ title: "Understanding reported carbon dioxide emissions based on plant-level iro
 ---
 
 {% capture fig_img %}
-![Foo]({{ '/assets/images/CMU Energy Week Poster_Geonu Kim.png' | relative_url }})
+![Foo]({{ '/assets/images/CMU Energy Week Poster_Geonu Kim.png' width = 400 | relative_url }})
 {% endcapture %}
 
 <figure>
