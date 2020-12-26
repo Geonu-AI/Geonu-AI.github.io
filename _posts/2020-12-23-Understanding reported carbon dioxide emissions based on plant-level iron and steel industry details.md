@@ -8,3 +8,5 @@ The carbon dioxide emission data from the Green House Gases Reporting Program of
 
 ![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/CMU Energy Week Poster_Geonu Kim.png)
 {: .full}
+
+Presented at *Energy Week at CMU (2019)*, and *AISTech 2019 Graduate Student Poster Contest (2019)*, Pittsburgh, PA 
