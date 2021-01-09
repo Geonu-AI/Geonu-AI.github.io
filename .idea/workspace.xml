@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a82c2f8-6fcd-4a2e-b679-01bdc45ecd82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-23-Understanding reported carbon dioxide emissions based on plant-level iron and steel industry details.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-23-Understanding reported carbon dioxide emissions based on plant-level iron and steel industry details.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -87,6 +88,7 @@
       <workItem from="1608300034434" duration="182000" />
       <workItem from="1608553677514" duration="4000" />
       <workItem from="1608730639047" duration="14000" />
+      <workItem from="1609330195979" duration="56000" />
     </task>
     <servers />
   </component>
