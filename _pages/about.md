@@ -15,3 +15,5 @@ toc: true
 ---
 
 I'm a data scientist who excels at deep learning, data analysis, and processing.
+
+"I can do all things.."
